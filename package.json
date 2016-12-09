@@ -1,0 +1,19 @@
+{
+  "name": "node-banner-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.3.0",
+    "graceful-fs": "^4.1.11",
+    "mkdirp": "^0.5.1",
+    "promise": "^7.1.1",
+    "request-promise": "^4.1.1",
+    "sleep": "^5.0.0"
+  }
+}
